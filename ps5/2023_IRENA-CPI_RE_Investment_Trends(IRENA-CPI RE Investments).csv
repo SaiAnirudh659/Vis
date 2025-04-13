@@ -1,0 +1,387 @@
+Category,Product,Year,Investment in USD billion
+Technology,Biofuels,2013,1.88670
+Technology,Biofuels,2014,1.91756
+Technology,Biofuels,2015,1.65493
+Technology,Biofuels,2016,0.22934
+Technology,Biofuels,2017,0.20520
+Technology,Biofuels,2018,0.17974
+Technology,Biofuels,2019,1.77294
+Technology,Biofuels,2020,1.82112
+Technology,Biofuels,2021,6.03000
+Technology,Biofuels,2022,5.84000
+Technology,Biomass,2013,8.61579
+Technology,Biomass,2014,8.57190
+Technology,Biomass,2015,7.36613
+Technology,Biomass,2016,5.05402
+Technology,Biomass,2017,4.62719
+Technology,Biomass,2018,10.94852
+Technology,Biomass,2019,8.69030
+Technology,Biomass,2020,4.45940
+Technology,Biomass,2021,10.86000
+Technology,Biomass,2022,3.05000
+Technology,Geothermal,2013,0.84306
+Technology,Geothermal,2014,2.18748
+Technology,Geothermal,2015,2.56808
+Technology,Geothermal,2016,2.19157
+Technology,Geothermal,2017,3.53310
+Technology,Geothermal,2018,2.08794
+Technology,Geothermal,2019,1.30752
+Technology,Geothermal,2020,0.62717
+Technology,Geothermal,2021,0.32000
+Technology,Geothermal,2022,0.18000
+Technology,Hydropower,2013,13.96551
+Technology,Hydropower,2014,9.57729
+Technology,Hydropower,2015,5.66875
+Technology,Hydropower,2016,3.05083
+Technology,Hydropower,2017,25.52066
+Technology,Hydropower,2018,8.46842
+Technology,Hydropower,2019,6.91064
+Technology,Hydropower,2020,8.73461
+Technology,Hydropower,2021,7.83262
+Technology,Hydropower,2022,7.55262
+Technology,Marine,2013,0.06455
+Technology,Marine,2014,0.12571
+Technology,Marine,2015,0.06855
+Technology,Marine,2016,0.01909
+Technology,Marine,2017,0.00000
+Technology,Marine,2018,0.00000
+Technology,Marine,2019,0.00209
+Technology,Marine,2020,0.00000
+Technology,Marine,2021,0.00000
+Technology,Marine,2022,0.00000
+Technology,Offshore wind,2013,7.13043
+Technology,Offshore wind,2014,16.99407
+Technology,Offshore wind,2015,27.48850
+Technology,Offshore wind,2016,27.30459
+Technology,Offshore wind,2017,21.06815
+Technology,Offshore wind,2018,22.54846
+Technology,Offshore wind,2019,22.01381
+Technology,Offshore wind,2020,40.66813
+Technology,Offshore wind,2021,39.33000
+Technology,Offshore wind,2022,33.75000
+Technology,Onshore wind,2013,64.88174
+Technology,Onshore wind,2014,73.65095
+Technology,Onshore wind,2015,104.00463
+Technology,Onshore wind,2016,80.41688
+Technology,Onshore wind,2017,103.70501
+Technology,Onshore wind,2018,100.41752
+Technology,Onshore wind,2019,132.50899
+Technology,Onshore wind,2020,120.03762
+Technology,Onshore wind,2021,139.06000
+Technology,Onshore wind,2022,140.70000
+Technology,Solar PV,2013,106.08183
+Technology,Solar PV,2014,141.37183
+Technology,Solar PV,2015,146.81093
+Technology,Solar PV,2016,121.56025
+Technology,Solar PV,2017,171.93948
+Technology,Solar PV,2018,152.64804
+Technology,Solar PV,2019,126.60589
+Technology,Solar PV,2020,148.11170
+Technology,Solar PV,2021,217.28000
+Technology,Solar PV,2022,298.21000
+Technology,Solar thermal including CSP,2013,18.50944
+Technology,Solar thermal including CSP,2014,16.89729
+Technology,Solar thermal including CSP,2015,20.52529
+Technology,Solar thermal including CSP,2016,16.02885
+Technology,Solar thermal including CSP,2017,14.42511
+Technology,Solar thermal including CSP,2018,13.68019
+Technology,Solar thermal including CSP,2019,18.66568
+Technology,Solar thermal including CSP,2020,13.89699
+Technology,Solar thermal including CSP,2021,8.94000
+Technology,Solar thermal including CSP,2022,9.30000
+Technology,Unknown,2013,16.84239
+Technology,Unknown,2014,16.96827
+Technology,Unknown,2015,23.61597
+Technology,Unknown,2016,7.39304
+Technology,Unknown,2017,6.38889
+Technology,Unknown,2018,11.06757
+Technology,Unknown,2019,10.83709
+Technology,Unknown,2020,9.39966
+Technology,Unknown,2021,0.00000
+Technology,Unknown,2022,0.00000
+Region,East Asia and Pacific,2013,96.56306
+Region,East Asia and Pacific,2014,123.92784
+Region,East Asia and Pacific,2015,154.96134
+Region,East Asia and Pacific,2016,107.46262
+Region,East Asia and Pacific,2017,144.18841
+Region,East Asia and Pacific,2018,93.14519
+Region,East Asia and Pacific,2019,136.97334
+Region,East Asia and Pacific,2020,169.79125
+Region,North America (excluding Mexico),2013,34.34577
+Region,North America (excluding Mexico),2014,40.04956
+Region,North America (excluding Mexico),2015,45.33065
+Region,North America (excluding Mexico),2016,49.52440
+Region,North America (excluding Mexico),2017,56.50376
+Region,North America (excluding Mexico),2018,73.07515
+Region,North America (excluding Mexico),2019,68.05113
+Region,North America (excluding Mexico),2020,53.23984
+Region,Europe,2013,49.42654
+Region,Europe,2014,58.27907
+Region,Europe,2015,72.81869
+Region,Europe,2016,52.38272
+Region,Europe,2017,48.00732
+Region,Europe,2018,66.07415
+Region,Europe,2019,53.66556
+Region,Europe,2020,67.36201
+Region,Eurasia,2013,3.61904
+Region,Eurasia,2014,3.23227
+Region,Eurasia,2015,5.38073
+Region,Eurasia,2016,4.77419
+Region,Eurasia,2017,5.76905
+Region,Eurasia,2018,4.63345
+Region,Eurasia,2019,5.17496
+Region,Eurasia,2020,6.16742
+Region,Latin America and Caribbean,2013,19.07084
+Region,Latin America and Caribbean,2014,18.78909
+Region,Latin America and Caribbean,2015,26.05030
+Region,Latin America and Caribbean,2016,12.28815
+Region,Latin America and Caribbean,2017,21.88626
+Region,Latin America and Caribbean,2018,20.31532
+Region,Latin America and Caribbean,2019,20.69500
+Region,Latin America and Caribbean,2020,17.58603
+Region,South Asia,2013,6.18207
+Region,South Asia,2014,9.13372
+Region,South Asia,2015,13.31728
+Region,South Asia,2016,15.49067
+Region,South Asia,2017,17.66579
+Region,South Asia,2018,14.78977
+Region,South Asia,2019,14.93095
+Region,South Asia,2020,15.00803
+Region,Sub-Saharan Africa,2013,5.62102
+Region,Sub-Saharan Africa,2014,4.29590
+Region,Sub-Saharan Africa,2015,5.40864
+Region,Sub-Saharan Africa,2016,3.89885
+Region,Sub-Saharan Africa,2017,4.05254
+Region,Sub-Saharan Africa,2018,9.60978
+Region,Sub-Saharan Africa,2019,5.28752
+Region,Sub-Saharan Africa,2020,3.77410
+Region,Others,2013,23.99310
+Region,Others,2014,30.55491
+Region,Others,2015,16.50411
+Region,Others,2016,17.42686
+Region,Others,2017,53.33967
+Region,Others,2018,40.40359
+Region,Others,2019,24.53650
+Region,Others,2020,14.82770
+Financial Instrument,Balance Sheet Financing (Debt Portion),2013,0.00000
+Financial Instrument,Balance Sheet Financing (Debt Portion),2014,0.00000
+Financial Instrument,Balance Sheet Financing (Debt Portion),2015,90.14538
+Financial Instrument,Balance Sheet Financing (Debt Portion),2016,63.81975
+Financial Instrument,Balance Sheet Financing (Debt Portion),2017,90.47394
+Financial Instrument,Balance Sheet Financing (Debt Portion),2018,92.54335
+Financial Instrument,Balance Sheet Financing (Debt Portion),2019,93.95183
+Financial Instrument,Balance Sheet Financing (Debt Portion),2020,110.92590
+Financial Instrument,Balance Sheet Financing (Equity Portion),2013,86.84894
+Financial Instrument,Balance Sheet Financing (Equity Portion),2014,103.74817
+Financial Instrument,Balance Sheet Financing (Equity Portion),2015,33.69343
+Financial Instrument,Balance Sheet Financing (Equity Portion),2016,22.09553
+Financial Instrument,Balance Sheet Financing (Equity Portion),2017,93.95805
+Financial Instrument,Balance Sheet Financing (Equity Portion),2018,87.70936
+Financial Instrument,Balance Sheet Financing (Equity Portion),2019,100.04810
+Financial Instrument,Balance Sheet Financing (Equity Portion),2020,114.88839
+Financial Instrument,Grant,2013,1.63222
+Financial Instrument,Grant,2014,2.32416
+Financial Instrument,Grant,2015,0.94488
+Financial Instrument,Grant,2016,1.04746
+Financial Instrument,Grant,2017,1.36232
+Financial Instrument,Grant,2018,1.32802
+Financial Instrument,Grant,2019,0.67909
+Financial Instrument,Grant,2020,1.23813
+Financial Instrument,Low-Cost Project Debt,2013,15.41608
+Financial Instrument,Low-Cost Project Debt,2014,17.22896
+Financial Instrument,Low-Cost Project Debt,2015,7.36718
+Financial Instrument,Low-Cost Project Debt,2016,4.15526
+Financial Instrument,Low-Cost Project Debt,2017,4.63546
+Financial Instrument,Low-Cost Project Debt,2018,7.00377
+Financial Instrument,Low-Cost Project Debt,2019,2.14903
+Financial Instrument,Low-Cost Project Debt,2020,2.65319
+Financial Instrument,Project-Level Equity,2013,95.92704
+Financial Instrument,Project-Level Equity,2014,100.43847
+Financial Instrument,Project-Level Equity,2015,111.07533
+Financial Instrument,Project-Level Equity,2016,89.31222
+Financial Instrument,Project-Level Equity,2017,35.30864
+Financial Instrument,Project-Level Equity,2018,30.51671
+Financial Instrument,Project-Level Equity,2019,38.76355
+Financial Instrument,Project-Level Equity,2020,33.96561
+Financial Instrument,Project-Level Market Rate Debt,2013,38.95865
+Financial Instrument,Project-Level Market Rate Debt,2014,64.38995
+Financial Instrument,Project-Level Market Rate Debt,2015,86.50125
+Financial Instrument,Project-Level Market Rate Debt,2016,81.42939
+Financial Instrument,Project-Level Market Rate Debt,2017,118.05000
+Financial Instrument,Project-Level Market Rate Debt,2018,92.83518
+Financial Instrument,Project-Level Market Rate Debt,2019,86.50306
+Financial Instrument,Project-Level Market Rate Debt,2020,82.73041
+Financial Instrument,Unknown,2013,0.03852
+Financial Instrument,Unknown,2014,0.13265
+Financial Instrument,Unknown,2015,10.04430
+Financial Instrument,Unknown,2016,1.38885
+Financial Instrument,Unknown,2017,7.62439
+Financial Instrument,Unknown,2018,10.11001
+Financial Instrument,Unknown,2019,7.22030
+Financial Instrument,Unknown,2020,1.35476
+Type of Investors,Bilateral DFI,2013,1.67469
+Type of Investors,Bilateral DFI,2014,12.24377
+Type of Investors,Bilateral DFI,2015,11.99056
+Type of Investors,Bilateral DFI,2016,2.63168
+Type of Investors,Bilateral DFI,2017,9.35786
+Type of Investors,Bilateral DFI,2018,10.32160
+Type of Investors,Bilateral DFI,2019,7.50610
+Type of Investors,Bilateral DFI,2020,2.27676
+Type of Investors,Export Credit Agency (ECA),2013,1.01546
+Type of Investors,Export Credit Agency (ECA),2014,1.32562
+Type of Investors,Export Credit Agency (ECA),2015,0.40281
+Type of Investors,Export Credit Agency (ECA),2016,0.34246
+Type of Investors,Export Credit Agency (ECA),2017,1.65198
+Type of Investors,Export Credit Agency (ECA),2018,1.81466
+Type of Investors,Export Credit Agency (ECA),2019,0.51326
+Type of Investors,Export Credit Agency (ECA),2020,0.54488
+Type of Investors,Government,2013,2.83653
+Type of Investors,Government,2014,5.90722
+Type of Investors,Government,2015,3.72958
+Type of Investors,Government,2016,3.67939
+Type of Investors,Government,2017,6.45460
+Type of Investors,Government,2018,6.76232
+Type of Investors,Government,2019,6.19433
+Type of Investors,Government,2020,6.49846
+Type of Investors,Multilateral Climate Funds,2013,0.66613
+Type of Investors,Multilateral Climate Funds,2014,0.69460
+Type of Investors,Multilateral Climate Funds,2015,0.76438
+Type of Investors,Multilateral Climate Funds,2016,1.28867
+Type of Investors,Multilateral Climate Funds,2017,0.87503
+Type of Investors,Multilateral Climate Funds,2018,0.45581
+Type of Investors,Multilateral Climate Funds,2019,0.49503
+Type of Investors,Multilateral Climate Funds,2020,0.06462
+Type of Investors,Multilateral DFI,2013,13.79055
+Type of Investors,Multilateral DFI,2014,14.40756
+Type of Investors,Multilateral DFI,2015,8.70835
+Type of Investors,Multilateral DFI,2016,9.41460
+Type of Investors,Multilateral DFI,2017,9.80621
+Type of Investors,Multilateral DFI,2018,10.72112
+Type of Investors,Multilateral DFI,2019,10.36443
+Type of Investors,Multilateral DFI,2020,9.38748
+Type of Investors,National DFI,2013,15.14151
+Type of Investors,National DFI,2014,8.62296
+Type of Investors,National DFI,2015,14.40607
+Type of Investors,National DFI,2016,3.56003
+Type of Investors,National DFI,2017,38.57114
+Type of Investors,National DFI,2018,21.46623
+Type of Investors,National DFI,2019,29.13237
+Type of Investors,National DFI,2020,26.75259
+Type of Investors,Public Fund,2013,0.34195
+Type of Investors,Public Fund,2014,0.24203
+Type of Investors,Public Fund,2015,0.17154
+Type of Investors,Public Fund,2016,0.08960
+Type of Investors,Public Fund,2017,0.38238
+Type of Investors,Public Fund,2018,0.22690
+Type of Investors,Public Fund,2019,0.75375
+Type of Investors,Public Fund,2020,0.44657
+Type of Investors,SOE,2013,26.28840
+Type of Investors,SOE,2014,25.20614
+Type of Investors,SOE,2015,20.24830
+Type of Investors,SOE,2016,10.10215
+Type of Investors,SOE,2017,23.47758
+Type of Investors,SOE,2018,22.33139
+Type of Investors,SOE,2019,11.21305
+Type of Investors,SOE,2020,10.51615
+Type of Investors,State-owned FI,2013,2.57293
+Type of Investors,State-owned FI,2014,1.88377
+Type of Investors,State-owned FI,2015,3.04395
+Type of Investors,State-owned FI,2016,1.38314
+Type of Investors,State-owned FI,2017,29.14530
+Type of Investors,State-owned FI,2018,17.75188
+Type of Investors,State-owned FI,2019,38.28032
+Type of Investors,State-owned FI,2020,51.66432
+Type of Investors,Commercial FI,2013,20.87740
+Type of Investors,Commercial FI,2014,44.33957
+Type of Investors,Commercial FI,2015,66.60529
+Type of Investors,Commercial FI,2016,18.66325
+Type of Investors,Commercial FI,2017,41.05976
+Type of Investors,Commercial FI,2018,46.89011
+Type of Investors,Commercial FI,2019,97.80474
+Type of Investors,Commercial FI,2020,103.87626
+Type of Investors,Corporation,2013,109.53438
+Type of Investors,Corporation,2014,126.74936
+Type of Investors,Corporation,2015,172.59258
+Type of Investors,Corporation,2016,177.36667
+Type of Investors,Corporation,2017,160.93837
+Type of Investors,Corporation,2018,144.84501
+Type of Investors,Corporation,2019,92.44522
+Type of Investors,Corporation,2020,99.21769
+Type of Investors,Funds,2013,2.14201
+Type of Investors,Funds,2014,2.66373
+Type of Investors,Funds,2015,4.25117
+Type of Investors,Funds,2016,1.67064
+Type of Investors,Funds,2017,5.35358
+Type of Investors,Funds,2018,9.72960
+Type of Investors,Funds,2019,4.66935
+Type of Investors,Funds,2020,1.98678
+Type of Investors,Households/Individuals,2013,39.24900
+Type of Investors,Households/Individuals,2014,41.35263
+Type of Investors,Households/Individuals,2015,30.99497
+Type of Investors,Households/Individuals,2016,30.83782
+Type of Investors,Households/Individuals,2017,21.35213
+Type of Investors,Households/Individuals,2018,23.13614
+Type of Investors,Households/Individuals,2019,27.59773
+Type of Investors,Households/Individuals,2020,31.98231
+Type of Investors,Institutional Investors,2013,2.38770
+Type of Investors,Institutional Investors,2014,2.49760
+Type of Investors,Institutional Investors,2015,1.63065
+Type of Investors,Institutional Investors,2016,1.42872
+Type of Investors,Institutional Investors,2017,2.98689
+Type of Investors,Institutional Investors,2018,5.59363
+Type of Investors,Institutional Investors,2019,1.96899
+Type of Investors,Institutional Investors,2020,2.49205
+Type of Investors,Unknown,2013,0.30280
+Type of Investors,Unknown,2014,0.12581
+Type of Investors,Unknown,2015,0.23153
+Type of Investors,Unknown,2016,0.78966
+Type of Investors,Unknown,2017,0.00000
+Type of Investors,Unknown,2018,0.00000
+Type of Investors,Unknown,2019,0.37629
+Type of Investors,Unknown,2020,0.04948
+Source,Private,2013,174.49329
+Source,Private,2014,217.72870
+Source,Private,2015,276.30619
+Source,Private,2016,230.75676
+Source,Private,2017,231.69073
+Source,Private,2018,230.19450
+Source,Private,2019,224.86232
+Source,Private,2020,239.60457
+Source,Public,2013,64.32815
+Source,Public,2014,70.53366
+Source,Public,2015,63.46556
+Source,Public,2016,32.49170
+Source,Public,2017,119.72207
+Source,Public,2018,91.85190
+Source,Public,2019,104.45264
+Source,Public,2020,108.15182
+Sector ,End-use,2013,20.36300
+Sector ,End-use,2014,23.17481
+Sector ,End-use,2015,17.27275
+Sector ,End-use,2016,14.41987
+Sector ,End-use,2017,12.57155
+Sector ,End-use,2018,12.63751
+Sector ,End-use,2019,17.06248
+Sector ,End-use,2020,16.91054
+Sector ,End-use,2021,13.43257
+Sector ,End-use,2022,12.81266
+Sector ,Power,2013,199.88835
+Sector ,Power,2014,247.79506
+Sector ,Power,2015,298.42458
+Sector ,Power,2016,241.30624
+Sector ,Power,2017,332.45236
+Sector ,Power,2018,298.34132
+Sector ,Power,2019,302.44515
+Sector ,Power,2020,322.26615
+Sector ,Power,2021,416.14867
+Sector ,Power,2022,485.73030
+Sector ,Unknown,2013,18.57009
+Sector ,Unknown,2014,17.29248
+Sector ,Unknown,2015,24.07442
+Sector ,Unknown,2016,7.52235
+Sector ,Unknown,2017,6.38889
+Sector ,Unknown,2018,11.06757
+Sector ,Unknown,2019,9.80732
+Sector ,Unknown,2020,8.57970
+Sector ,Unknown,2021,0.07138
+Sector ,Unknown,2022,0.03966
